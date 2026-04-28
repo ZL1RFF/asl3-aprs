@@ -35,12 +35,6 @@ Before you begin, ensure you have:
 - ✓ Internet connection on your Raspberry Pi
 - ✓ A Valid Ham Callsign and APRS Passcode go to this link to generate one: https://apps.magicbug.co.uk/passcode/
 
-### Get the NodeRemote App
-
-- **iOS**: Search "Node Remote" in Apple App Store
-- **Android**: Search "Node Remote" in Google Play Store
-  
-
 ### Step 1: SSH to your Raspberry Pi
 
 SSH into your Raspberry Pi and create a backup of your gps.conf file:
