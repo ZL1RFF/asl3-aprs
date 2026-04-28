@@ -16,11 +16,11 @@ APRS stands for Automatic Packet Reporting System. It’s a digital communicatio
 
 Instead of voice, APRS sends short data packets that can include:
 
-📍 GPS position (your location on a map
-💬 Short text messages
-🚗 Vehicle tracking (cars, bikes, balloons)
-🌦️ Weather station data
-📊 Telemetry (voltage, sensors, etc.)
+- 📍 GPS position (your location on a map)
+- 💬 Short text messages
+- 🚗 Vehicle tracking (cars, bikes, balloons)
+- 🌦️ Weather station data
+- 📊 Telemetry (voltage, sensors, etc.)
 
 Visit this link to find out more: https://www.aprs.org/
 To view aprs map go to: https://aprs.fi/
