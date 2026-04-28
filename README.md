@@ -66,7 +66,7 @@ interval = 600                 ; Beacon interval in seconds (600 = 10 mins)
 
 ### Step 3: Enable GPS module in rpt.conf
 
-While still on the same asterisk directory edit rpt.cond and make sure gps module on your rpt.conf is enabled
+While still on the same asterisk directory edit rpt.conf and make sure shared object module (app_gps.so )on your rpt.conf is loaded.
 
 ```bash
 nano rpt.conf
@@ -86,7 +86,7 @@ load     = app_gps.so                     ; GPS Interface
 
 ### Step 5: Save the new config and reload the module
 
-ctrl + x -> yes to Save
+CTRL + X then YES to Save
 
 ### Step 6: Reload all modules from shell
 
