@@ -99,3 +99,12 @@ asterisk -rx "module reload"
 ```bash
 systemctl restart asterisk
 ```
+## To view aprs map go to: https://aprs.fi/
+See you on the map.
+
+73
+ZL1RFF
+
+
+
+
