@@ -1,5 +1,4 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)
 ![Platform](https://img.shields.io/badge/platform-Raspberry%20Pi-red.svg)
 ![ASL3](https://img.shields.io/badge/ASL-3.0-blue.svg)
 ![Shell Script](https://img.shields.io/badge/shell-bash-green.svg)
