@@ -65,7 +65,7 @@ interval = 600                 ; Beacon interval in seconds (600 = 10 mins)
 
 ```
 
-### Step 2: Enable GPS module in rpt.conf
+### Step 3: Enable GPS module in rpt.conf
 
 While still on the same asterisk directory edit rpt.cond and make sure gps module on your rpt.conf is enabled
 
@@ -79,23 +79,23 @@ nano rpt.conf
 noload     = app_gps.so                     ; GPS Interface
 ```
 
-### Step 3: Change noload to load
+### Step 4: Change noload to load
 
 ```bash
 load     = app_gps.so                     ; GPS Interface
 ```
 
-### Step 3: Save the new config and reload the module
+### Step 5: Save the new config and reload the module
 
 ctrl + x -> yes to Save
 
-### Step 4: Reload all modules from shell
+### Step 6: Reload all modules from shell
 
 ```bash
 asterisk -rx "module reload"
 ```
 
-### Step 5:Restart Asterisk
+### Step 7:Restart Asterisk
 
 ```bash
 systemctl restart asterisk
